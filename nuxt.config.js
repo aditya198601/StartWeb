@@ -7,7 +7,7 @@ export default {
   */
   mode: 'spa',
   router: {
-    base: '/StartMe/'
+    base: '/StartWeb/'
   },
   /*
   ** Nuxt target
